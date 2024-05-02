@@ -11,7 +11,7 @@ conda activate NP
 
 now install the needed script 
 ```
-git install https://github.com/daanbrackel/NP_wrap
+git clone https://github.com/daanbrackel/NP_wrap
 ```
 
 move into the NP_wrap directory:

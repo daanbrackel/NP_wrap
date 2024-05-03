@@ -30,7 +30,7 @@ as the input you can give it a folder containing all fastq.gz files. the output 
 
 you can also add an alias so you can run the script from every location:
 ```
-echo "alias NP='your/path/to/NP_total.py'"  >> ~/.bashrc
+echo "alias NP='your/path/to/NP_wrap/NP_total.py'"  >> ~/.bashrc
 ```
 ```
 source ~/.bashrc

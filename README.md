@@ -1,5 +1,7 @@
 # NP_wrap
 
+NP_wrap is a wrapper for analyzing the quality of fastq.gz files. it will loop over a folder containing your fastq.gz files and put all normal NanoPlot output in a corresponding output folder. this way you can allways find back which information belongs to which barcode. Besides this, NP_wrap also provides you with a DataFrame.tsv file which holds all information of the given barcodes in one table. This makes comparison of quality between barcodes easier.
+
 ## create an environment to install nanoplot
 
 ```
